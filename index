@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Architecture Table Comparison</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <center><h1>Computer Architecture</h1>
+<table>
+  <tr>
+    <th>Component</th>
+    <th>1. Acer Aspire TC-1775-UR11</th>
+    <th>2. Lenovo ThinkCentre M70q Gen 5 Tiny</th>
+    <th>3. GEEKOM A5 Pro Mini PC</th>
+  </tr>
+  <tr>
+    <td>Type (laptop, desktop, tablet, etc.)</td>
+    <td>Desktop</td>
+    <td>Business Desktop</td>
+    <td>Mini PC</td>
+  </tr>
+  <tr>
+    <td>Processor</td>
+    <td>14th-generation 10-core desktop processor</td>
+    <td>Intel i5-14400T processor</td>
+    <td>AMD Ryzen 5 7430U processor</td>
+  </tr>
+  <tr>
+    <td>Memory (RAM)</td>
+    <td> 32 GB total</td>
+    <td>16GB RAM</td>
+    <td>16GB RAM (expandable to 64GB)</td>
+  </tr>
+  <tr>
+    <td>Hard Drive (storage)</td>
+    <td>512 GB</td>
+    <td>1TB</td>
+    <td>5 TB</td>
+  </tr>
+  <tr>
+    <td>Monitor or screen size</td>
+    <td>N/A</td>
+    <td>7.05" by 7.20"</td>
+    <td>Mini PC = N/A</td>
+  </tr>
+  <tr>
+    <td>Operating System</td>
+    <td>Smooth, modern, and user friendly.</td>
+    <td>Hassle-free deployment, upgrades, and management</td>
+    <td>Full-featured, stable desktop experience, plus it also supports Linux in dual-boot mode.</td>
+  </tr>
+  <tr>
+    <td>Other Accessories</td>
+    <td>Mouse and keyboard</td>
+    <td>Power adapter, keyboard, and mouse, though mostly sold seperately.</td>
+    <td>Wi-Fi 6, Bluetooth 5.4, six USB ports, SD card reader, and an audio jack.</td>
+  </tr>
+<tr>
+    <td>Cost</td>
+    <td>$599.9</td>
+    <td>$449.99 - $1,249.99</td>
+    <td>$449 - $599</td>
+  </tr>
+</table>
+
+<br>
+<p>Based off the data aprovided above, I would prefer to buy the GEEKOM A5 Pro Mini PC, since it has 5TB of storage,<br>which is more than
+either of the other options, is relatively cheaper, and has many other accessories and functions. <br>It also has an expandable RAM, up to 64 GB.</p>
+</center>
+</body>
+</html>
